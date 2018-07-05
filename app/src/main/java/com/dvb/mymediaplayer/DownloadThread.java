@@ -14,6 +14,16 @@ public class DownloadThread extends Thread {
         mHandler = new DownloadHandler();
         Looper.loop();
     }
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
